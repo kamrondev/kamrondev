@@ -22,7 +22,7 @@ Some things you're good at. Some things are good for you. For me, programming is
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-![Kamron's Profile views](https://komarev.com/ghpvc/?username=alkamroniy&color=lightgrey)
+![Kamron's Profile views](https://komarev.com/ghpvc/?username=kamrondev&color=lightgrey)
 
 ### Social Media
 
